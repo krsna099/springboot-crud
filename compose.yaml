@@ -1,7 +1,0 @@
-services:
-  web:
-    image: krsna099/registration-service-0.0.1:latest
-    build:
-      context: .
-    ports:
-      - "8080:8080"
